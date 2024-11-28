@@ -1,0 +1,6 @@
+-> Run python3 simulator.py to run the simulation
+-> Enter the value of Number of fact checkers, it has to be an integer
+-> Then enter the fraction of malicious users, this has to be a float less than 1
+-> Then enter the fraction of very trustworthy voters, this has to be a float less than 1
+-> Finally enter the value of number of news articles, you are simulating this for
+-> All simulations done are for 50000 articles
